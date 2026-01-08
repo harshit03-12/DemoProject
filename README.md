@@ -55,10 +55,9 @@ IDE (Eclipse / VS Code)
 
 Steps:-
 Clone the repository:
-git clone https://github.com/harshit03-12/PageAutomate1.git
-
+git clone https://github.com/harshit03-12/DemoProject.git
 Navigate to project directory:
-cd PageAutomate1
+cd DemoProject
 Run tests using Maven:
 mvn test
 
