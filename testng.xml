@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Automation Test Suite">
+
+    <test name="Login Page Tests">
+        <classes>
+            <class name="wiz.web.qa.testcases.LoginPageTest"/>
+        </classes>
+    </test>
+
+</suite>

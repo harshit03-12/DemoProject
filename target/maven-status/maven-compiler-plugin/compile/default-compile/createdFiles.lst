@@ -1,0 +1,5 @@
+wiz/web/qa/utils/TestUtil.class
+wiz/web/qa/base/TestBase.class
+wiz/web/qa/pages/HomePage.class
+wiz/web/qa/pages/LoginPage.class
+wiz/web/qa/pages/RegisterPage.class
